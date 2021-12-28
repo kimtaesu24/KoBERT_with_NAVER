@@ -7,6 +7,7 @@
 
 ## 주요 실험 결과
 - accuracy
+
 |Epoch|BERT(multi)|BERT(Ko)|
 |------|---|---|
 |1|0.8466|0.8827|
