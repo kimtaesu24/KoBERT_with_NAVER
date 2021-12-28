@@ -6,6 +6,7 @@
 - KoBERT Tokenizer를 통해 문장을 Token화 하였고, 한국어 문장으로 pretrain되어있는 BERT Classification model으로 감정분석을 시행하여 감정분석의 결과인 긍/부정 감정이 상대적인 확률로 나타나도록 하였다.
 
 ## 주요 실험 결과
+- accuracy
 |Epoch|BERT(multi)|BERT(Ko)|
 |------|---|---|
 |1|0.8466|0.8827|
