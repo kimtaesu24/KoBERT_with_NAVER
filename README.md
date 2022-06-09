@@ -15,3 +15,10 @@
 |3|0.8613|0.8933|
 |4|0.8618|0.8920|
 |5|0.8618|0.8948|
+
+- 실제 데이터 적용 (킹스맨: 퍼스트 에이전트)
+
+![1](https://user-images.githubusercontent.com/80094752/172822500-6c5ce706-7ec2-4592-aeb7-c43f1784226a.png)
+
+
+![2](https://user-images.githubusercontent.com/80094752/172822740-ef674110-703c-43fa-b779-4bca3d428574.png)
